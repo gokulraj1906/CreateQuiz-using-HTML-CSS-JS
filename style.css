@@ -1,0 +1,31 @@
+
+.Container{
+    width: 600px;
+    background-color: rgb(255, 208, 246);
+    padding: 30px;
+    margin: 6% 32%;
+
+#ans1{
+    width: 500px;
+    margin: 10px;
+    text-align: left;
+   
+}
+#ans2{
+    width: 500px;
+    margin: 10px;
+    text-align: left;
+   
+}
+#ans3{
+    width: 500px;
+    margin: 10px;
+    text-align: left;
+   
+}
+#ans4{
+    width: 500px;
+    margin: 10px;
+    text-align: left;
+   
+}
